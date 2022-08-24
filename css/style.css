@@ -1,0 +1,21 @@
+
+#builds-page, .cla-nick {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.img_body_home {
+    image-orientation: 0deg;
+    
+}
+
+.post-title {
+    font-size: 16px;
+    font-style: italic;
+}
