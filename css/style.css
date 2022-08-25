@@ -1,20 +1,32 @@
-.menu-home {
-    font-size: 22px;
+.nome-data {
+
+    
+}
+
+#profile-img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+}
+
+body{
     text-align: center;
-    color: black;
-    text-shadow: aliceblue;
+    color: aliceblue;
+    font-size: 22px;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
-#ceypheron-img {
-    max-width: 100px;
-    max-height: 100px;
-    width: auto;
-    height: auto;
+ul {
+    list-style: none;
 }
 
-.ceypheron-dds {
-    font-style: italic;
-    font-size: 12px;
-    text-align: left;
-    position: absolute;
+section{
+    margin-top: 30px;
+}
+
+li {
+    margin: 5px;
 }
