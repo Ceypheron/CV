@@ -1,6 +1,20 @@
 >>home
-    cla info
-    cla links
+    Menu>
+        .home>
+        .animes>
+        .filmes>
+        .series>
 
->>Build
-    nekro.img>build-nekros
+>>animes
+    .lista animes nome e img >>
+                                Anime page
+                                    .nome
+                                    .img
+                                    .descrição
+
+>>filmes
+    .lista filmes nome e img >>
+                                Filme page
+                                    .nome
+                                    .img
+                                    .descrição

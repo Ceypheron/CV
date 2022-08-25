@@ -1,21 +1,20 @@
-
-#builds-page, .cla-nick {
-    color: rgb(0, 0, 0);
-    font-size: 25px;
-    font-style: italic;
+.menu-home {
+    font-size: 22px;
     text-align: center;
+    color: black;
+    text-shadow: aliceblue;
 }
 
-body {
-    background-color: black;
+#ceypheron-img {
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
 }
 
-.img_body_home {
-    image-orientation: 0deg;
-    
-}
-
-.post-title {
-    font-size: 16px;
+.ceypheron-dds {
     font-style: italic;
+    font-size: 12px;
+    text-align: left;
+    position: absolute;
 }
