@@ -1,18 +1,23 @@
 body{
     text-align: center;
-    color: aliceblue;
+    background-color: black;
     font-size: 22px;
     font-weight: 200;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url(/img/olhando-lua.webp);
-    background-size: 100% ;
+    background-size: 100%;
     background-position: center;
-
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 #menu {
     margin: auto;
 }
+
+ .list-musics {
+    height: max-content;
+ }
 
 a {
     color: inherit;
@@ -23,7 +28,6 @@ a {
     max-width: 150px;
     max-height: 150px;
     border-radius: 50%;
-    border: 0.5px  white
 }
 
 
@@ -31,19 +35,14 @@ ul {
     list-style: none;
 }
 
+
 section{
     margin-top: 30px;
 }
 
+
 li {
     margin: 5px;
-    text-shadow: 2px 2px 1px black
-}
-
-.rodape {
-    position: absolute;
-    max-width: 150px;
-    max-height: 150px;
-    border-radius: 50%;
-    border: 5px  white
+    text-shadow: 2px 2px 1px black;
+    color: white;
 }
