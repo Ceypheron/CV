@@ -10,15 +10,31 @@ body{
     background-attachment: fixed;
 }
 
-
-#menu {
-    margin: auto;
+/* MENU */
+.menu {
+    padding: 0;
 }
-
-
-
+.menu li{
+    display: inline;
+}
+.menu li a{
+    display: inline-block;
+    padding: 10px;
+}
 a {
     color: inherit;
+}
+/* central-page */
+.central-page {
+    display: inline-block;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+/* titulo pagina*/
+.titulo-pagina {
+    color: rgb(207, 210, 212);
+    text-shadow: 2px 2px 1px black;
 }
 
 
