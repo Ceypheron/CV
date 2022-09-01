@@ -4,15 +4,20 @@ body{
     font-size: 22px;
     font-weight: 200;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url(/imagens/olhando-lua.webp);
+    background-image: url(/img/olhando-lua.webp);
     background-size: 100% ;
     background-position: center;
 
 }
 
+#menu {
+    margin: auto;
+}
+
 a {
     color: inherit;
 }
+
 
 #profile-img {
     max-width: 150px;
@@ -20,7 +25,6 @@ a {
     border-radius: 50%;
     border: 0.5px  white
 }
-
 
 
 ul {
