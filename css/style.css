@@ -21,6 +21,21 @@ body{
     display: inline-block;
     padding: 10px;
 }
+
+.menu-home {
+    padding: 0;
+}
+.menu-home li{
+    display: inline;
+}
+.menu-home li a{
+    display: inline-block;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+}
+
 a {
     color: inherit;
 }
