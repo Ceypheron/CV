@@ -45,9 +45,10 @@ a {
     justify-content: center;
     vertical-align: middle;
 }
+
 /* Player */
 .player {
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 /* titulo pagina*/
