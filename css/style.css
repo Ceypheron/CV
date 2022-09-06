@@ -1,11 +1,11 @@
 body{
     text-align: center;
     background-color: black;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 200;
     font-family: 'Times New Roman', Times, serif;
     background-size: 100%;
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -46,15 +46,10 @@ a {
     vertical-align: middle;
 }
 
-/* Player */
-.player {
-    padding-top: 15px;
-}
-
 /* titulo pagina*/
 .titulo-pagina {
     color: rgb(207, 210, 212);
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 1px 1px 1px black;
 }
 
 
