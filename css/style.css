@@ -4,7 +4,7 @@ body{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     background-size: 100%;
-    background-position: left;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -31,7 +31,9 @@ body{
     bottom: 0;
     left: 0;
 }
-
+.back-home {
+    background-size: 50%;
+}
 /* central-page */
 .central-page {
     display: inline-block;
@@ -50,6 +52,7 @@ body{
     max-width: 150px;
     max-height: 150px;
     border-radius: 50%;
+    
 }
 
 ul {
