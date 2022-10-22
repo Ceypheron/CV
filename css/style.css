@@ -1,9 +1,9 @@
 body{
     text-align: center;
-    background-color: black;
+    /* background-color: black; */
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -31,9 +31,7 @@ body{
     bottom: 0;
     left: 0;
 }
-.back-home {
-    background-size: 50%;
-}
+
 /* central-page */
 .central-page {
     display: inline-block;
